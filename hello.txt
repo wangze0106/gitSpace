@@ -3,3 +3,4 @@ hello world
 hot-fix
 github
 ssh_public_key
+ssh_push
